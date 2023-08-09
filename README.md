@@ -23,6 +23,9 @@ ___
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/amazon%20web%20services-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 <!-- 
 **noahpark24/noahpark24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
