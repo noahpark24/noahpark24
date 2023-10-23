@@ -7,7 +7,6 @@
 ___
 ## 🌱 I’m Currently Working On 
 - Financy Health - An App To Keep Track Of Income And Expenses For The Month And Year
-- Fast delivery - An Express Delivery Application Designed To Manage And Track Product Delivery Orders.
 ___
 ## 🚀 Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
