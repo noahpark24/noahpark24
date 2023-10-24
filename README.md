@@ -1,9 +1,9 @@
 # Hi There  I'm Ivan!
-✨ I'm a Full Stack developer
+✨ I'm a Full Stack developer with preference for backend development
 <br>
 ✨ I Like Facing New Challenges And Problems In Order To Keep Myself Learning More And More.
 <br>
-💻 My Preferred Stack Is PERN. Also, I Use MERN Stack In Some Proyects 
+💻 My Preferred Stack Is PERN. Also, I Use MERN Stack In Some Proyects
 ___
 ## 🌱 I’m Currently Working On 
 - Financy Health - An App To Keep Track Of Income And Expenses For The Month And Year
