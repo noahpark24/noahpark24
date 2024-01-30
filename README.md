@@ -6,7 +6,7 @@
 💻 My Preferred Stack Is PERN. Also, I Use MERN Stack In Some Proyects
 ___
 ## 🌱 I’m Currently Working On 
-- Financy Health - An App To Keep Track Of Income And Expenses For The Month And Year
+- DocFin - An App To Keep Track Of Income And Expenses For The Month And Year
 ___
 ## 🚀 Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
