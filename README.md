@@ -7,6 +7,7 @@
 ___
 ## 🌱 Actualmente Estoy Trabajando En
 - DocFin - Una Aplicación Mobile Para Realizar Un Seguimiento De Los Ingresos Y Gastos Del Mes Y Del Año
+- Bazarin - Tienda con 3 paginas donde se buscaran productos y se podran ver detalles del seleccionado
 ___
 ## 🚀 Tecnologias 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
